@@ -1,3 +1,7 @@
+// Solutions for coin-change problem
+
+// Encontrando uma unica solução:
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -54,3 +58,5 @@ signed main(){
 
 	return 0;
 }
+
+//
